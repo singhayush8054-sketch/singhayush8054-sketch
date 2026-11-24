@@ -2,10 +2,13 @@
 
 Software Developer | Systems & Backend
 
-## 🚀 projects
-- **[Redis in Java](https://github.com/singhayush8054-sketch/build-redis-java)** - high-performance redis-compatible client.
-- **[AI Agents](https://github.com/singhayush8054-sketch/self-learning-ai-agents)** - agents that adapt and improve through interaction.
-- **[C Compiler](https://github.com/singhayush8054-sketch/c-compiler-c)** - building compilers from the ground up.
+## 📌 Pinned / Featured Projects
+
+| Project | Description |
+| :--- | :--- |
+| **[build-redis-java](https://github.com/singhayush8054-sketch/build-redis-java)** | High-performance Redis-compatible client written in Java. |
+| **[buspay](https://github.com/singhayush8054-sketch/buspay)** | Payment processing system. |
+| **[self-learning-ai-agents](https://github.com/singhayush8054-sketch/self-learning-ai-agents)** | Autonomous agents that adapt and improve through interaction. |
 
 ## 🛠 skills
 - **Languages:** Python, JavaScript, Go, C
