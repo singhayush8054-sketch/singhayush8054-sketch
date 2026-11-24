@@ -1,16 +1,18 @@
-# hi, i'm singhayush8054-sketch 👋
+# hi, i'm singhayush8054-sketch 🚀
 
-## 🚀 projects
-- **[Build your own Redis in Java](https://github.com/singhayush8054-sketch/build-redis-java)**
-- **[Self-learning AI agents](https://github.com/singhayush8054-sketch/self-learning-ai-agents)**
-- **[C compiler written in C](https://github.com/singhayush8054-sketch/c-compiler-c)**
+passionate developer and builder.
+
+## 🛠️ projects
+- **[Build your own Redis in Java](https://github.com/singhayush8054-sketch/build-redis-java)** - high-performance redis-compatible client.
+- **[Self-learning AI agents](https://github.com/singhayush8054-sketch/self-learning-ai-agents)** - agents that adapt and improve through interaction.
+- **[C compiler written in C](https://github.com/singhayush8054-sketch/c-compiler-c)** - building compilers from the ground up.
 - **[BusPay](https://github.com/singhayush8054-sketch/buspay)** - smart payment solutions for public transport.
-- **[private-ai-search](https://github.com/singhayush8054-sketch/private-ai-search)** - privacy-focused search engine using ai.
+- **[private-ai-search](https://github.com/singhayush8054-sketch/private-ai-search)** - privacy-focused ai search.
 
 ## 🛠️ tech stack
 - **languages:** python, javascript, go
 - **tools & frameworks:** react, node.js, docker, postgresql
 
-## 📬 contact
+## 📧 contact
 - **github:** [singhayush8054-sketch](https://github.com/singhayush8054-sketch)
-- **email:** ayush@example.com (placeholder)
+- **email:** ayush@example.com
